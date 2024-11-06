@@ -170,7 +170,10 @@ A curated list of awesome AI resources—including papers, datasets, projects, a
 - [Adam: A Method for Stochastic Optimization](https://arxiv.org/abs/1412.6980) - Introducing the Adam optimizer.
 
 ## Datasets
+### Khmer Datasets
+- [khmer text data](https://github.com/phylypo/khmer-text-data) - Khmer unicode text data for unsupervised learning language model
 
+### Global Dataset
 - [ImageNet](http://www.image-net.org/) - Large visual database for use in visual object recognition research.
 - [COCO Dataset](https://cocodataset.org/) - Large-scale object detection, segmentation, and captioning dataset.
 - [Common Crawl](http://commoncrawl.org/) - An open repository of web crawl data.
@@ -182,18 +185,30 @@ A curated list of awesome AI resources—including papers, datasets, projects, a
 - [WikiText Language Modeling Dataset](https://blog.einstein.ai/the-wikitext-long-term-dependency-language-modeling-dataset/) - Large language modeling dataset.
 - [KITTI Vision Benchmark Suite](http://www.cvlibs.net/datasets/kitti/) - For autonomous driving research.
 
+
+
 ## Projects
 
-### OpenAI Projects
+### Khmer AI Projects
 
-- [OpenAI Gym](https://gym.openai.com/) - A toolkit for developing and comparing reinforcement learning algorithms.
-- [OpenAI Baselines](https://github.com/openai/baselines) - High-quality implementations of reinforcement learning algorithms.
-- [CLIP (Contrastive Language–Image Pretraining)](https://github.com/openai/CLIP) - Connects text and images.
-- [DALL·E](https://openai.com/research/dall-e) - Creating images from text descriptions.
-- [OpenAI Codex](https://openai.com/blog/openai-codex/) - An AI system that translates natural language to code.
-- [OpenAI Microscope](https://microscope.openai.com/) - Visualization of neurons in neural networks.
+- [wav2vec2-khmer-openslr](https://github.com/seanghay/wav2vec2-khmer-openslr) - Wav2Vec2 with OpenSLR 42 (Khmer language)
+- [Fast Khmer Dictionary](https://github.com/seanghay/khmerdictjs) - Fast khmer dictionary
+- [tha](https://github.com/seanghay/tha) - 📢 Tha (ថា) - A Khmer Text Normalization and Verbalization Toolkit
 
-### Community Projects
+- [khmer line breaker](https://github.com/seanghay/khmer-line-breaker) - The lightweight Khmer line breaker with no dependencies. (10.4 kB)
+- [khmer2number](https://github.com/seanghay/khmer2number) - A Khmer word to number converter.
+- [sosab](https://github.com/seanghay/sosap) - 🗣️ sosap(សូរសព្ទ) Python binding for Phonetisaurus
+- [khmerpronounce](https://github.com/seanghay/khmerpronounce) - Khmer Pronounciation Toolkit
+- [khmersegment](https://github.com/seanghay/khmersegment) - A Khmer word segmentation tool built for NIPTICT (now CADT) Khmer Word Segmentation CRF model.
+- [kfa](https://github.com/seanghay/kfa) - A fast Khmer Forced Aligner powered by Wav2Vec2CTC and Phonetisaurus
+- [khmercut](https://github.com/seanghay/khmercut) - A (fast) Khmer word segmentation toolkit.
+- [pykhmernlp](https://github.com/MetythornPenn/pykhmernlp) - Collections of Khmer language toolkit.
+- [autocrop_kh](https://github.com/MetythornPenn/autocrop_kh) - Automatic Document Segmentation and Cropping for Khmer IDs, Passport and Documents
+- [ocr_toolkits](https://github.com/MetythornPenn/ocr_toolkits) - Collection of functions to work with ocr and synthetic data generator
+- [sdab](https://github.com/MetythornPenn/sdab) - Khmer Speech to Text Inference with Pretrained Model
+
+
+### Global AI Projects
 
 - [fast.ai](https://www.fast.ai/) - Simplifying AI and making it accessible.
 - [DeepMind Lab](https://github.com/deepmind/lab) - A 3D learning environment for agent-based AI research.
@@ -203,6 +218,21 @@ A curated list of awesome AI resources—including papers, datasets, projects, a
 - [AllenNLP](https://github.com/allenai/allennlp) - An open-source NLP research library.
 - [Caffe](https://github.com/BVLC/caffe) - A deep learning framework made with expression, speed, and modularity in mind.
 - [Horovod](https://github.com/horovod/horovod) - Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.
+- [OpenAI Gym](https://gym.openai.com/) - A toolkit for developing and comparing reinforcement learning algorithms.
+- [OpenAI Baselines](https://github.com/openai/baselines) - High-quality implementations of reinforcement learning algorithms.
+- [CLIP (Contrastive Language–Image Pretraining)](https://github.com/openai/CLIP) - Connects text and images.
+- [DALL·E](https://openai.com/research/dall-e) - Creating images from text descriptions.
+- [OpenAI Codex](https://openai.com/blog/openai-codex/) - An AI system that translates natural language to code.
+- [OpenAI Microscope](https://microscope.openai.com/) - Visualization of neurons in neural networks.
+- [fish speech](https://github.com/fishaudio/fish-speech) - Brand new TTS solution
+- [vits](https://github.com/jaywalnut310/vits) - Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech
+- [vits2](https://github.com/daniilrobnikov/vits2) - Improving Quality and Efficiency of Single-Stage Text-to-Speech with Adversarial Learning and Architecture Design
+- [Donut](https://github.com/clovaai/donut) - Official Implementation of OCR-free Document Understanding Transformer (Donut) and Synthetic Document Generator (SynthDoG), ECCV 2022
+- [deep text recognition](https://github.com/clovaai/deep-text-recognition-benchmark) - Text recognition (optical character recognition) with deep learning methods, ICCV 2019
+- [craft](https://github.com/clovaai/CRAFT-pytorch) - Official implementation of Character Region Awareness for Text Detection (CRAFT)
+- [EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
+- [SAM2](https://github.com/facebookresearch/sam2) - Segment Anything Model 2 (SAM 2) is a foundation model towards solving promptable visual segmentation in images and videos.
+
 
 ## Books
 
