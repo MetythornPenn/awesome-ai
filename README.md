@@ -227,25 +227,28 @@ A curated list of awesome AI resources—including papers, datasets, projects, a
 - [DALL·E](https://openai.com/research/dall-e) - Creating images from text descriptions.
 - [OpenAI Codex](https://openai.com/blog/openai-codex/) - An AI system that translates natural language to code.
 - [OpenAI Microscope](https://microscope.openai.com/) - Visualization of neurons in neural networks.
+### Text to speech
 - [fish speech](https://github.com/fishaudio/fish-speech) - Brand new TTS solution
 - [vits](https://github.com/jaywalnut310/vits) - Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech
 - [vits2](https://github.com/daniilrobnikov/vits2) - Improving Quality and Efficiency of Single-Stage Text-to-Speech with Adversarial Learning and Architecture Design
+### Optical Character Recognition
 - [Donut](https://github.com/clovaai/donut) - Official Implementation of OCR-free Document Understanding Transformer (Donut) and Synthetic Document Generator (SynthDoG), ECCV 2022
 - [deep text recognition](https://github.com/clovaai/deep-text-recognition-benchmark) - Text recognition (optical character recognition) with deep learning methods, ICCV 2019
 - [craft](https://github.com/clovaai/CRAFT-pytorch) - Official implementation of Character Region Awareness for Text Detection (CRAFT)
 - [EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
 - [SAM2](https://github.com/facebookresearch/sam2) - Segment Anything Model 2 (SAM 2) is a foundation model towards solving promptable visual segmentation in images and videos.
+- [Mask_RCNN](https://github.com/matterport/Mask_RCNN) - Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow
+- [Mask_RCNN Pytorch](https://github.com/multimodallearning/pytorch-mask-rcnn) - Mask R-CNN for object detection and instance segmentation on Pytorch
+### Facial Recognition
 - [insightface](https://github.com/deepinsight/insightface) - State-of-the-art 2D and 3D Face Analysis Project
 - [InsightFace Pytorch](https://github.com/TreB1eN/InsightFace_Pytorch) - Pytorch0.4.1 codes for InsightFace
 - [facenet](https://github.com/davidsandberg/facenet) - Face Recoginition using Tensorflow
 - [facenet pytorch](https://github.com/timesler/facenet-pytorch/tree/master) - Pretrained Pytorch face detection (MTCNN) and facial recognition (InceptionResnet) models
-
 - [facenet pytorch glint360k](https://github.com/tamerthamoqa/facenet-pytorch-glint360k) - A PyTorch implementation of the 'FaceNet' paper for training a facial recognition model with Triplet Loss using the glint360k dataset. A pre-trained model using Triplet Loss is available for download.
 - [openface](https://github.com/cmusatyalab/openface) - Face recognition with deep neural networks.
 - [face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
 - [DeepFace](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
-- [Mask_RCNN](https://github.com/matterport/Mask_RCNN) - Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow
-- [Mask_RCNN Pytorch](https://github.com/multimodallearning/pytorch-mask-rcnn) - Mask R-CNN for object detection and instance segmentation on Pytorch
+### Large Language Model
 - [litgpt](https://github.com/Lightning-AI/litgpt) - 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
 - [litdata](https://github.com/Lightning-AI/litdata) - Transform datasets at scale. Optimize datasets for fast AI model training.
 - [dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
