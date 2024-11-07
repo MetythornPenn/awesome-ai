@@ -241,6 +241,7 @@ A curated list of awesome AI resources—including papers, datasets, projects, a
 - [facenet pytorch](https://github.com/timesler/facenet-pytorch/tree/master) - Pretrained Pytorch face detection (MTCNN) and facial recognition (InceptionResnet) models
 
 - [facenet pytorch glint360k](https://github.com/tamerthamoqa/facenet-pytorch-glint360k) - A PyTorch implementation of the 'FaceNet' paper for training a facial recognition model with Triplet Loss using the glint360k dataset. A pre-trained model using Triplet Loss is available for download.
+- [openface](https://github.com/cmusatyalab/openface) - Face recognition with deep neural networks.
 - [face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
 - [DeepFace](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 - [Mask_RCNN](https://github.com/matterport/Mask_RCNN) - Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow
