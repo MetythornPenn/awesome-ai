@@ -185,7 +185,8 @@ A curated list of awesome AI resources—including papers, datasets, projects, a
 - [WikiText Language Modeling Dataset](https://blog.einstein.ai/the-wikitext-long-term-dependency-language-modeling-dataset/) - Large language modeling dataset.
 - [KITTI Vision Benchmark Suite](http://www.cvlibs.net/datasets/kitti/) - For autonomous driving research.
 
-- [face recognition datasets](https://github.com/deepinsight/insightface/tree/master/recognition/_datasets_) - Collections of face data 
+- [face recognition datasets](https://github.com/deepinsight/insightface/tree/master/recognition/_datasets_) - Collections of face data
+- [VGGFace2](https://www.robots.ox.ac.uk/~vgg/data/vgg_face2/) - a large-scale face recognition dataset. Images are downloaded from Google Image Search and have large variations in pose, age, illumination, ethnicity and profession.
 
 
 
