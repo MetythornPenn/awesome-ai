@@ -248,6 +248,7 @@ A curated list of awesome AI resources—including papers, datasets, projects, a
 - [openface](https://github.com/cmusatyalab/openface) - Face recognition with deep neural networks.
 - [face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
 - [DeepFace](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
+- [Retinaface](https://github.com/serengil/retinaface) - RetinaFace: Deep Face Detection Library for Python
 ####  + Large Language Model
 - [litgpt](https://github.com/Lightning-AI/litgpt) - 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
 - [litdata](https://github.com/Lightning-AI/litdata) - Transform datasets at scale. Optimize datasets for fast AI model training.
