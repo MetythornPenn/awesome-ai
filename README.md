@@ -187,6 +187,7 @@ A curated list of awesome AI resources—including papers, datasets, projects, a
 
 - [face recognition datasets](https://github.com/deepinsight/insightface/tree/master/recognition/_datasets_) - Collections of face data
 - [VGGFace2](https://www.robots.ox.ac.uk/~vgg/data/vgg_face2/) - a large-scale face recognition dataset. Images are downloaded from Google Image Search and have large variations in pose, age, illumination, ethnicity and profession.
+- [VGGFace2 Torrent](https://academictorrents.com/details/535113b8395832f09121bc53ac85d7bc8ef6fa5b) - VGGFace2 dataset download via torrent
 
 
 
