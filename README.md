@@ -237,6 +237,8 @@ A curated list of awesome AI resources—including papers, datasets, projects, a
 - [SAM2](https://github.com/facebookresearch/sam2) - Segment Anything Model 2 (SAM 2) is a foundation model towards solving promptable visual segmentation in images and videos.
 - [insightface](https://github.com/deepinsight/insightface) - State-of-the-art 2D and 3D Face Analysis Project
 - [InsightFace Pytorch](https://github.com/TreB1eN/InsightFace_Pytorch) - Pytorch0.4.1 codes for InsightFace
+- [facenet](https://github.com/davidsandberg/facenet) - Face Recoginition using Tensorflow
+- [facenet pytorch](https://github.com/timesler/facenet-pytorch/tree/master) - Pretrained Pytorch face detection (MTCNN) and facial recognition (InceptionResnet) models
 
 - [facenet pytorch glint360k](https://github.com/tamerthamoqa/facenet-pytorch-glint360k) - A PyTorch implementation of the 'FaceNet' paper for training a facial recognition model with Triplet Loss using the glint360k dataset. A pre-trained model using Triplet Loss is available for download.
 - [face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
